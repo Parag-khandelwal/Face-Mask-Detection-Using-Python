@@ -1,5 +1,5 @@
 # Face Mask Detection using Python
-The Face Mask Detection using Python is a machine learning project designed to detect if a person is wearing a face mask or not. The project is built using Python and various machine learning libraries, including OpenCV and TensorFlow.
+The Face Mask Detection using Python is a Deep learning project designed to detect if a person is wearing a face mask or not. The project is built using Python and various machine learning libraries, including OpenCV and TensorFlow.
 
 # Features
 Some of the key features of the Face Mask Detection using Python include:
